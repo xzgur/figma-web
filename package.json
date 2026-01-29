@@ -74,7 +74,6 @@
     "vaul": "1.1.2"
   },
   "devDependencies": {
-    "@next/swc-darwin-arm64": "^16.1.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
